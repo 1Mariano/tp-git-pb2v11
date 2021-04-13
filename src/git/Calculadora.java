@@ -28,6 +28,12 @@ public class Calculadora {
 	 }
 	 System.out.println("El resultado es " + resultado.toString());
 	 }
+	 agrego codigo10
+	 10
+	 10
+	 10
+	 1
+	 
 	}
 
 }
